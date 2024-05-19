@@ -1,0 +1,4 @@
+[submodule "amorvitae/public"]
+	path = amorvitae/public
+	url = https://github.com/amorvitae/amorvitae.github.io
+	branch = main

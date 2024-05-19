@@ -1,0 +1,5 @@
+baseURL = 'https://amorvitae.github.io/'
+languageCode = 'en-us'
+title = 'Amor Vitae'
+
+theme = 'archie'
